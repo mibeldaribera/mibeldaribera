@@ -1,6 +1,6 @@
 ### Hola 👋
 Soy Miguel y estoy en una Clase de Máster en la ULL
-Las cosas que más me gustan de tenerife son:
+Las cosas que más me gustan de Tenerife son:
 * La gente
 * Los Guachinches
 * El bosque 
@@ -9,6 +9,7 @@ Soy de Valencia
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+!<--
 **mibeldaribera/mibeldaribera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -21,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
