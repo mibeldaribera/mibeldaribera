@@ -7,10 +7,12 @@ Las cosas que más me gustan de Tenerife son:
 
 Soy de Valencia y vine para trabajar en la naturaleza
 
-| 1 | 2 | 3 |
-:--: :--:  :--: 
-| a | b | c |
-:--: :--:  :--: 
+| 1 UNO | 2 DOS | 3 TRES |
+   :--:    :--:    :--: 
+| a UNO  | b DOS | c TRES |
+:--:        :--:    :--: 
+
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
