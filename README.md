@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hola 👋
+Soy Miguel y estoy en una Clase de Máster en la ULL
+Las cosas que más me gustan de tenerife son:
+* La gente
+* Los Guachinches
+* El bosque
 <!--
 **mibeldaribera/mibeldaribera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
